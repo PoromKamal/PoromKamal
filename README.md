@@ -33,7 +33,7 @@ Learn more about me here!
 
 - 🔖 You can connect with me on LinkedIn at [Porom's Linkedin](https://www.linkedin.com/in/porom-kamal-0207a9187/)  
   
-- <img src="https://pbs.twimg.com/profile_images/925876587949518848/SQ1anZ1F_400x400.jpg" align="center" style="width: 7%" /> Prev SWE Intern @ Seequent (Bentley Systems) 
+- <img src="https://pbs.twimg.com/profile_images/925876587949518848/SQ1anZ1F_400x400.jpg" align="center" style="width: 2%" /> Prev SWE Intern @ Seequent (Bentley Systems) 
 - 💼 Seeking Summer 2023 Internships  
 
 <br/>  
