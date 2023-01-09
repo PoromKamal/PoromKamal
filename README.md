@@ -23,7 +23,7 @@ Learn more about me here!
 
 
 ## Overview
-<table><tr><td valign="top" width="50%">
+<tr><td valign="top" width="50%">
 
 - 📚 HBSc, Specialist in CS, Software Engineering Stream @ UofT  
   
@@ -35,7 +35,6 @@ Learn more about me here!
   
 - <img src="https://pbs.twimg.com/profile_images/925876587949518848/SQ1anZ1F_400x400.jpg" align="center" style="width: 7%" /> Prev SWE Intern @ Seequent (Bentley Systems) 
 - 💼 Seeking Summer 2023 Internships  
-</table>  
 
 <br/>  
 
