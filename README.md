@@ -20,9 +20,6 @@ Learn more about me here!
   
 ###  
 
-<br/>  
-
-
 ## Overview
 <tr><td valign="top" width="50%">
 
