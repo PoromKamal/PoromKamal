@@ -15,6 +15,7 @@
 I'm a student @ UofT, I specialize in backend and Full-stack development.
 
 I have a passion for Software Engineering, and enjoy developing end-to-end apps, features, servers, and more.
+<br/>
 Learn more about me here!
   
 ###  
