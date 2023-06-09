@@ -26,7 +26,7 @@ Learn more about me here!
 - 📚 HBSc, Specialist in CS, Software Engineering Stream @ UofT  
   
 
--  📄 You can view my personal website at [Porom's Portfolio](https://poromkamal.github.io/Porom/)  
+-  📄 You can view my personal website at [Porom's Portfolio](https://poromkamal.github.io/)  
   
 
 - 🔖 You can connect with me on LinkedIn at [Porom's Linkedin](https://www.linkedin.com/in/porom-kamal-0207a9187/)  
