@@ -33,7 +33,8 @@ Learn more about me here!
 
 - <img src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/re8dcjamiepioshqsix5" align="center" style="width: 2%" /> Incoming SDE Intern @ Ceridian
   
-- <img src="https://pbs.twimg.com/profile_images/925876587949518848/SQ1anZ1F_400x400.jpg" align="center" style="width: 2%" /> Prev SWE Intern @ Seequent (Bentley Systems)
+- <img src="https://pbs.twimg.com/profile_images/925876587949518848/SQ1anZ1F_400x400.jpg" align="center" style="width: 2%" /> Prev SWE Intern @ Seequent (Bentley Systems <img src="https://github.com/PoromKamal/PoromKamal/assets/62628923/1e3bbb7a-b4e6-41a7-9e56-1c6a299a5e11" align="center" style="width: 13px" /> ) 
+
 
 - 💼 Seeking Summer 2024 Internships  
 
