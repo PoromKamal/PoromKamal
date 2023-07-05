@@ -37,8 +37,13 @@ Learn more about me here!
 
 - 💼 Seeking Summer 2024 Internships  
 
-<br/>  
 
+## Currently Working On:
+
+(Coming Sept 2023)
+
+### PhotonDB🪐
+NoSQL Image Database with Scalable Image Similarity Queries
 
 ## Languages and Tools  
 <div align="center">  
