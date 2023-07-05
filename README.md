@@ -12,11 +12,9 @@
 
 
 ###   Glad to see you here!  
-I'm a student @ UofT, I specialize in backend and Full-stack development.
+4th year Student @ UofT, specializing in backend and full-stack development.
 
-I have a passion for Software Engineering, and enjoy developing end-to-end apps, features, servers, and more.
-<br/>
-Learn more about me here!
+I enjoy building end-to-end applications, as well as unique, feature-rich projects, which you can learn more about here!
   
 ###  
 
