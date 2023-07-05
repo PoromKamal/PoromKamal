@@ -40,9 +40,9 @@ Learn more about me here!
 
 ## Currently Working On:
 
-(Coming Sept 2023)
 
-### PhotonDB🪐
+
+### PhotonDB🪐 (Coming Sept 2023)
 NoSQL Image Database with Scalable Image Similarity Queries
 
 ## Languages and Tools  
