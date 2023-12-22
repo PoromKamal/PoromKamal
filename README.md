@@ -36,11 +36,6 @@ I enjoy building end-to-end applications, as well as unique, feature-rich projec
 
 - 💼 Seeking Summer 2024 Internships  
 
-
-## Currently Working On
-### PhotonDB⚛️
-NoSQL Image Database with Scalable Image Similarity Queries
-
 ## Languages and Tools  
 <div align="center">  
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" /></a>  
