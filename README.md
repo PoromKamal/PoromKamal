@@ -14,7 +14,7 @@
 ###   Glad to see you here!  
 4th year Student @ UofT, specializing in backend and full-stack development.
 
-Interested in Distributed Systems, Large-Scale Software Systems, and Computer Vision.
+Interested in Distributed Systems, Large-Scale Software Systems, and AR/VR.
 
 I enjoy building end-to-end applications, as well as unique, feature-rich projects, which you can learn more about here!
 ###  
