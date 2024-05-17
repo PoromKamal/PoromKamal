@@ -27,7 +27,7 @@ I enjoy building end-to-end applications, as well as unique, feature-rich projec
 -  📄 You can view my personal website at [Porom's Portfolio](https://poromkamal.github.io/)  (Last updated Aug 2022)
   
 
-- 🔖 You can connect with me on LinkedIn at [Porom's Linkedin](https://www.linkedin.com/in/porom-kamal-0207a9187/)  
+- 🔖 You can connect with me on [Linkedin](https://www.linkedin.com/in/porom-kamal-0207a9187/)  
 
 - 🧑‍🏫 Currently TAing CSCC01 (Intro to Software Engineering) & [CSCC09](https://cscc09.com/) (Programming on the Web) @ UofT
 - Prev SWE Intern @ Dayforce <img src="https://play-lh.googleusercontent.com/GzXqzEjylw9Y2FQPvsw34DcYirDrItkNGYInKrkLg-mFP-cgLYmwF223kA67KlD2miU" align="center" style="width: 2%"/> , Bentley Systems <img src="https://media.licdn.com/dms/image/D4E0BAQEtxxz6UpPW4Q/company-logo_200_200/0/1691676516744/bentley_systems_logo?e=2147483647&v=beta&t=kZ3cUyOWTKYwxDwa4ugWoW7SodkgYQw9ZbSpWv-nUMY" align="center" style="width: 2%" />
