@@ -24,17 +24,13 @@ I enjoy building end-to-end applications, as well as unique, feature-rich projec
 - 📚 HBSc, Specialist in CS, Software Engineering Stream @ UofT  
   
 
--  📄 You can view my personal website at [Porom's Portfolio](https://poromkamal.github.io/)  
+-  📄 You can view my personal website at [Porom's Portfolio](https://poromkamal.github.io/)  (Last updated Aug 2022)
   
 
 - 🔖 You can connect with me on LinkedIn at [Porom's Linkedin](https://www.linkedin.com/in/porom-kamal-0207a9187/)  
 
-- <img src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/re8dcjamiepioshqsix5" align="center" style="width: 2%" /> SDE Intern @ Ceridian
-  
-- <img src="https://pbs.twimg.com/profile_images/925876587949518848/SQ1anZ1F_400x400.jpg" align="center" style="width: 2%" /> Prev SWE Intern @ Seequent (Bentley Systems <img src="https://github.com/PoromKamal/PoromKamal/assets/62628923/1e3bbb7a-b4e6-41a7-9e56-1c6a299a5e11" align="center" style="width: 13px" /> ) 
-
-
-- 💼 Seeking Summer 2024 Internships  
+- 🧑‍🏫 Currently TAing CSCC01 (Intro to Software Engineering) & [CSCC09](https://cscc09.com/) (Programming on the Web) at UofT
+- Prev SWE Intern @ Dayforce <img src="https://play-lh.googleusercontent.com/GzXqzEjylw9Y2FQPvsw34DcYirDrItkNGYInKrkLg-mFP-cgLYmwF223kA67KlD2miU" align="center" style="width: 2%"/> , Bentley Systems <img src="https://media.licdn.com/dms/image/D4E0BAQEtxxz6UpPW4Q/company-logo_200_200/0/1691676516744/bentley_systems_logo?e=2147483647&v=beta&t=kZ3cUyOWTKYwxDwa4ugWoW7SodkgYQw9ZbSpWv-nUMY" align="center" style="width: 2%" /> ) 
 
 ## Languages and Tools  
 <div align="center">  
