@@ -29,7 +29,7 @@ I enjoy building end-to-end applications, as well as unique, feature-rich projec
 
 ## My Previous Experiences
 - SWE Intern @ Dayforce <img src="https://play-lh.googleusercontent.com/GzXqzEjylw9Y2FQPvsw34DcYirDrItkNGYInKrkLg-mFP-cgLYmwF223kA67KlD2miU" align="center" style="width: 2%"/> (F23) and Bentley Systems (W22) <img src="https://media.licdn.com/dms/image/D4E0BAQEtxxz6UpPW4Q/company-logo_200_200/0/1691676516744/bentley_systems_logo?e=2147483647&v=beta&t=kZ3cUyOWTKYwxDwa4ugWoW7SodkgYQw9ZbSpWv-nUMY" align="center" style="width: 2%" />
-- TA for [CSCC01](https://utsc.calendar.utoronto.ca/course/cscc01h3) (Intro to Software Engineering, S24) & [CSCC09](https://cscc09.com/) (Programming on the Web, S24) @ UofT
+- TA for [CSCC09](https://cscc09.com/) (Programming on the Web, S24) @ UofT & [CSCC01](https://utsc.calendar.utoronto.ca/course/cscc01h3) (Intro to Software Engineering, S24)
 
 ## Get In Touch!
 - 🔖 You can connect with me on [Linkedin](https://www.linkedin.com/in/porom-kamal-0207a9187/)  
