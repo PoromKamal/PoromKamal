@@ -22,17 +22,17 @@ I enjoy building end-to-end applications, as well as unique, feature-rich projec
 ## Overview
 <tr><td valign="top" width="50%">
 
-- 📚 HBSc, Specialist in CS, Software Engineering Stream @ UofT  
-  
+- 📚 **Bachelors in CS @ University of Toronto**, Software Engineering Stream  
+- **Software Engineer Intern @ Shopify**, Mobile Core Security Team <img src="https://cdn.freebiesupply.com/logos/large/2x/shopify-logo-png-transparent.png" align="center" style="width: 2%"/>
+- **Building Startups @ [ICUBE UTM](https://icubeutm.ca/)** as a Full Stack Developer
+- **Currently TAing [CSCD01](https://cscd01.com/)** (Engineering Large Software Systems) @ UofT
 
--  📄 You can view my personal website at [Porom's Portfolio](https://poromkamal.github.io/)  (Last updated Aug 2022)
-  
+## My Previous Experiences
+- SWE Intern @ Dayforce <img src="https://play-lh.googleusercontent.com/GzXqzEjylw9Y2FQPvsw34DcYirDrItkNGYInKrkLg-mFP-cgLYmwF223kA67KlD2miU" align="center" style="width: 2%"/> (F23) and Bentley Systems (W22) <img src="https://media.licdn.com/dms/image/D4E0BAQEtxxz6UpPW4Q/company-logo_200_200/0/1691676516744/bentley_systems_logo?e=2147483647&v=beta&t=kZ3cUyOWTKYwxDwa4ugWoW7SodkgYQw9ZbSpWv-nUMY" align="center" style="width: 2%" />
+- TA for CSCC01 (Intro to Software Engineering, S24) & [CSCC09](https://cscc09.com/) (Programming on the Web, S24) @ UofT
 
+## Get In Touch!
 - 🔖 You can connect with me on [Linkedin](https://www.linkedin.com/in/porom-kamal-0207a9187/)  
-- Software Engineer Intern @ Shopify, Mobile Core Security Team <img src="https://cdn.freebiesupply.com/logos/large/2x/shopify-logo-png-transparent.png" align="center" style="width: 2%"/>
-- Currently TAing [CSCD01](https://cscd01.com/) (Engineering Large Software Systems) @ UofT
-- 🧑‍🏫 Prev TA for CSCC01 (Intro to Software Engineering) & [CSCC09](https://cscc09.com/) (Programming on the Web) @ UofT
-- Prev SWE Intern @ Dayforce <img src="https://play-lh.googleusercontent.com/GzXqzEjylw9Y2FQPvsw34DcYirDrItkNGYInKrkLg-mFP-cgLYmwF223kA67KlD2miU" align="center" style="width: 2%"/> , Bentley Systems <img src="https://media.licdn.com/dms/image/D4E0BAQEtxxz6UpPW4Q/company-logo_200_200/0/1691676516744/bentley_systems_logo?e=2147483647&v=beta&t=kZ3cUyOWTKYwxDwa4ugWoW7SodkgYQw9ZbSpWv-nUMY" align="center" style="width: 2%" />
 
 ## Languages and Tools  
 <div align="center">  
