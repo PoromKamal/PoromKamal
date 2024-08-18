@@ -12,7 +12,7 @@
 
 
 ###   Glad to see you here!  
-4th year Student @ UofT, specializing in backend and full-stack development.
+Final year Student @ UofT, specializing in backend and full-stack development.
 
 Interested in Distributed Systems, and AR/VR.
 
@@ -29,8 +29,9 @@ I enjoy building end-to-end applications, as well as unique, feature-rich projec
   
 
 - 🔖 You can connect with me on [Linkedin](https://www.linkedin.com/in/porom-kamal-0207a9187/)  
-
-- 🧑‍🏫 Currently TAing CSCC01 (Intro to Software Engineering) & [CSCC09](https://cscc09.com/) (Programming on the Web) @ UofT
+- Software Engineer Intern @ Shopify, Mobile Core Security Team <img src="https://cdn.freebiesupply.com/logos/large/2x/shopify-logo-png-transparent.png" align="center" style="width: 2%"/>
+- Currently TAing [CSCD01](https://cscd01.com/) (Engineering Large Software Systems) @ UofT
+- 🧑‍🏫 Prev TA for CSCC01 (Intro to Software Engineering) & [CSCC09](https://cscc09.com/) (Programming on the Web) @ UofT
 - Prev SWE Intern @ Dayforce <img src="https://play-lh.googleusercontent.com/GzXqzEjylw9Y2FQPvsw34DcYirDrItkNGYInKrkLg-mFP-cgLYmwF223kA67KlD2miU" align="center" style="width: 2%"/> , Bentley Systems <img src="https://media.licdn.com/dms/image/D4E0BAQEtxxz6UpPW4Q/company-logo_200_200/0/1691676516744/bentley_systems_logo?e=2147483647&v=beta&t=kZ3cUyOWTKYwxDwa4ugWoW7SodkgYQw9ZbSpWv-nUMY" align="center" style="width: 2%" />
 
 ## Languages and Tools  
