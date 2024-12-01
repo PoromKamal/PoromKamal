@@ -23,7 +23,7 @@ I enjoy building end-to-end applications, as well as unique, feature-rich projec
 - 📚 **Bachelors in CS @ University of Toronto**, Software Engineering Stream  
 - **Software Engineer Intern @ Shopify**, Mobile Core Security Team <img src="https://cdn.freebiesupply.com/logos/large/2x/shopify-logo-png-transparent.png" align="center" style="width: 2%"/>
 - **Building Startups @ [ICUBE UTM](https://icubeutm.ca/)** as a Full Stack Developer
-- **Currently TAing [CSCD01](https://cscd01.com/)** (Engineering Large Software Systems) @ UofT, F24
+- **Currently a Teaching Assistant for [CSCD01](https://cscd01.com/)** (Engineering Large Software Systems) @ UofT, F24
 
 ## My Previous Experiences
 - (F23) SWE Intern @ Dayforce, Mobile Pay & Talent Backend Team  <img src="https://play-lh.googleusercontent.com/GzXqzEjylw9Y2FQPvsw34DcYirDrItkNGYInKrkLg-mFP-cgLYmwF223kA67KlD2miU" align="center" style="width: 2%"/>
