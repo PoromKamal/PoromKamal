@@ -21,14 +21,18 @@ I enjoy building end-to-end applications, as well as unique, feature-rich projec
 <tr><td valign="top" width="50%">
 
 - 📚 **Bachelors in CS @ University of Toronto**, Software Engineering Stream  
-- **Software Engineer Intern @ Shopify**, Mobile Core Security Team <img src="https://cdn.freebiesupply.com/logos/large/2x/shopify-logo-png-transparent.png" align="center" style="width: 2%"/>
 - **Building Startups @ [ICUBE UTM](https://icubeutm.ca/)** as a Full Stack Developer
-- **Currently a Teaching Assistant for [CSCD01](https://cscd01.com/)** (Engineering Large Software Systems) @ UofT, F24
+- **Currently a Teaching Assistant for [CSCC01](https://cscd01.com/)** (Intro to Software Engineering) @ UofT, W25
 
 ## My Previous Experiences
+### Industry
+- (F24) SWE Intern @ Shopify, Identity Mobile Security Team <img src="https://cdn.freebiesupply.com/logos/large/2x/shopify-logo-png-transparent.png" align="center" style="width: 2%"/>
 - (F23) SWE Intern @ Dayforce, Mobile Pay & Talent Backend Team  <img src="https://play-lh.googleusercontent.com/GzXqzEjylw9Y2FQPvsw34DcYirDrItkNGYInKrkLg-mFP-cgLYmwF223kA67KlD2miU" align="center" style="width: 2%"/>
-- (W22) SWE Intern @ Bentley Systems, Unexploded Ordinances Team <img src="https://media.licdn.com/dms/image/D4E0BAQEtxxz6UpPW4Q/company-logo_200_200/0/1691676516744/bentley_systems_logo?e=2147483647&v=beta&t=kZ3cUyOWTKYwxDwa4ugWoW7SodkgYQw9ZbSpWv-nUMY" align="center" style="width: 2%" /> 
-- TA for [CSCC09](https://cscc09.com/) (Programming on the Web, S24) @ UofT & [CSCC01](https://utsc.calendar.utoronto.ca/course/cscc01h3) (Intro to Software Engineering, S24)
+- (W22) SWE Intern @ Bentley Systems, Unexploded Ordinances Team <img src="https://media.licdn.com/dms/image/D4E0BAQEtxxz6UpPW4Q/company-logo_200_200/0/1691676516744/bentley_systems_logo?e=2147483647&v=beta&t=kZ3cUyOWTKYwxDwa4ugWoW7SodkgYQw9ZbSpWv-nUMY" align="center" style="width: 2%" />
+### Teaching @ UofT
+- TA for [CSCD01](https://cscd01.com/) (Engineering Large Software Systems, F24)
+- TA for [CSCC09](https://cscc09.com/) (Programming on the Web, S24)
+- TA for [CSCC01](https://utsc.calendar.utoronto.ca/course/cscc01h3) (Intro to Software Engineering, S24)
 
 ## Get In Touch!
 - 🔖 You can connect with me on [Linkedin](https://www.linkedin.com/in/porom-kamal-0207a9187/)  
