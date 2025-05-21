@@ -12,17 +12,14 @@
 
 
 ###   Glad to see you here!  
-Final year Student @ UofT, specializing in backend and full-stack development.
+Software Engineer & UofT graduate, specializing in Systems and Web API development.
 
 I enjoy building end-to-end applications, as well as unique, feature-rich projects, which you can learn more about here!
 ###  
 
 ## Overview
-<tr><td valign="top" width="50%">
-
-- 📚 **Bachelors in CS @ University of Toronto**, Software Engineering Stream  
-- **Building Startups @ [ICUBE UTM](https://icubeutm.ca/)** as a Full Stack Developer
-- **Currently a Teaching Assistant for [CSCC01](https://cscd01.com/)** (Intro to Software Engineering) @ UofT, W25
+- 💼 Currently a **Software Engineer @ DoorDash** <img src=https://logosandtypes.com/wp-content/uploads/2020/12/DoorDash-e1608977737520.png align="center" style="width: 3%; border-radius:50%" />
+- 📚 **Bachelors in CS @ University of Toronto**, Software Engineering Stream <img src=https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Utoronto_coa.svg/1200px-Utoronto_coa.svg.png  align="center" style="width: 3%"/> 
 
 ## My Previous Experiences
 ### Industry
@@ -32,11 +29,12 @@ I enjoy building end-to-end applications, as well as unique, feature-rich projec
 ### Teaching @ UofT
 - TA for [CSCD01](https://cscd01.com/) (Engineering Large Software Systems, F24)
 - TA for [CSCC09](https://cscc09.com/) (Programming on the Web, S24)
-- TA for [CSCC01](https://utsc.calendar.utoronto.ca/course/cscc01h3) (Intro to Software Engineering, S24)
+- TA for [CSCC01](https://utsc.calendar.utoronto.ca/course/cscc01h3) (Intro to Software Engineering, S24, W25)
 
 ## Get In Touch!
 - 🔖 You can connect with me on [Linkedin](https://www.linkedin.com/in/porom-kamal-0207a9187/)  
 
+<!---
 ## Languages and Tools  
 <div align="center">  
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" /></a>  
@@ -54,5 +52,5 @@ I enjoy building end-to-end applications, as well as unique, feature-rich projec
 <a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" /></a>  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
 </div>  
-
+-->
 ## Check out my pins! ⬇️
