@@ -1,16 +1,9 @@
 ## Hey 👋, I'm Porom  
   
-
-<a href="https://github.com/poromkamal" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
 <a href="https://linkedin.com/in/porom-kamal-0207a9187" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
   
-
-
-
 ###   Glad to see you here!  
 Software Engineer & UofT graduate, specializing in Systems and Web API development.
 
