@@ -12,13 +12,13 @@ I enjoy building end-to-end applications, as well as unique, feature-rich projec
 
 ## Overview
 - 💼 Currently a **Software Engineer @ DoorDash** <img src=https://logosandtypes.com/wp-content/uploads/2020/12/DoorDash-e1608977737520.png align="center" style="width: 3%; border-radius:50%" />
-- 📚 **Bachelors in CS @ University of Toronto**, Software Engineering Stream <img src=https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Utoronto_coa.svg/1200px-Utoronto_coa.svg.png  align="center" style="width: 3%"/> 
+- 📚 **Bachelors in CS @ University of Toronto**, Software Engineering Stream <img src=https://upload.wikimedia.org/wikipedia/en/0/04/Utoronto_coa.svg align="center" style="width: 3%"/> 
 
 ## My Previous Experiences
 ### Industry
 - (F24) SWE Intern @ Shopify, Identity Mobile Security Team <img src="https://cdn.freebiesupply.com/logos/large/2x/shopify-logo-png-transparent.png" align="center" style="width: 2%"/>
 - (F23) SWE Intern @ Dayforce, Mobile Pay & Talent Backend Team  <img src="https://play-lh.googleusercontent.com/GzXqzEjylw9Y2FQPvsw34DcYirDrItkNGYInKrkLg-mFP-cgLYmwF223kA67KlD2miU" align="center" style="width: 2%"/>
-- (W22) SWE Intern @ Bentley Systems, Unexploded Ordinances Team <img src="https://media.licdn.com/dms/image/D4E0BAQEtxxz6UpPW4Q/company-logo_200_200/0/1691676516744/bentley_systems_logo?e=2147483647&v=beta&t=kZ3cUyOWTKYwxDwa4ugWoW7SodkgYQw9ZbSpWv-nUMY" align="center" style="width: 2%" />
+- (W22) SWE Intern @ Seequent, Unexploded Ordinances Team <img src="https://media.licdn.com/dms/image/v2/D560BAQENv3hwNC5ADQ/company-logo_200_200/company-logo_200_200/0/1716343109436/seequent_logo?e=2147483647&v=beta&t=gPsUkyvnxbOE_Qqx-sHWPoNsn57Yo1fSw7e4DIFsZ_c" align="center" style="width: 2%" />
 ### Teaching @ UofT
 - TA for [CSCD01](https://cscd01.com/) (Engineering Large Software Systems, F24)
 - TA for [CSCC09](https://cscc09.com/) (Programming on the Web, S24)
